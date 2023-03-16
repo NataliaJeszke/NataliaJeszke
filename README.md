@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">Here you can find projects revolving around topic of pure JS, ReactJS (+libraries) and styling</h3>
