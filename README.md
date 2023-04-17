@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on project of a web app **Quiz Page**
 
-- 🌱 I’m currently learning adding libraries to React projects **ReactJS with React-router-dom and React-Quiz-Component**
+- 🌱 I’m currently learning on how to add libraries to React projects **ReactJS with React-router-dom and React-Quiz-Component**
 
 - 👨‍💻 All of my projects are available at [https://nataliajeszke.github.io/portfolio/](https://nataliajeszke.github.io/portfolio/)
 
