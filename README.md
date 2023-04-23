@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/nataliafrontend" target="blank"><img src="https://img.shields.io/twitter/follow/nataliafrontend?logo=twitter&style=for-the-badge" alt="nataliafrontend" /></a> </p>
 
-- 🔭 I’m currently working on project of a web app **Quiz Page**
+- 🔭 I’m currently working on learning TypeScript
 
-- 🌱 I’m currently learning on how to add libraries to React projects **ReactJS with React-router-dom and React-Quiz-Component**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://nataliajeszke.github.io/portfolio/](https://nataliajeszke.github.io/portfolio/)
 
