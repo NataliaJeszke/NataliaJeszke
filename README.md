@@ -33,4 +33,4 @@
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="sass" width="40" height="40"/></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliajeszke&show_icons=true&locale=en&layout=compact" alt="nataliajeszke" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliajeszke&show_icons=true&locale=en" alt="nataliajeszke" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliajeszke&show_icons=true&locale=en" alt="nataliajeszke" /></p> -->
