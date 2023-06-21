@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Chatbot "Librarian"
 
-- 🌱 I’m currently learning **ReactJS** and **NodeJS**, **MongoDB**
+- 🌱 I’m currently learning **ReactJS** and **NodeJS**, **MongoDB**, **Postgresql**, **Prisma**, **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://nataliajeszke.github.io/portfolio/](https://nataliajeszke.github.io/portfolio/)
 
