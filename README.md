@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS** and **NodeJS**, **MongoDB**, **Postgresql**, **Prisma**, **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://nataliajeszke.github.io/portfolio/](https://nataliajeszke.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [[https://nataliajeszke.github.io/portfolio/](https://portfolio-bufgjsn5h-nataliajeszke.vercel.app/)
 
 - 📝 I regularly write short Tweets [https://twitter.com/NataliaFrontend](https://twitter.com/NataliaFrontend)
 
