@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">Here you can find projects revolving around topic of pure JS, ReactJS (+libraries), ReactNative (Expo) and styling</h3>
+<h3 align="center">Here you can find projects revolving around topic of pure JS, ReactJS (+libraries), React Native (Expo) and styling</h3>
 
 <p align="left"> <a href="https://twitter.com/nataliafrontend" target="blank"><img src="https://img.shields.io/twitter/follow/nataliafrontend?logo=twitter&style=for-the-badge" alt="nataliafrontend" /></a> </p>
 
 - 🔭 I’m currently working on Mobile App for iOS and Android
 
-- 🌱 I’m currently learning **ReactNative** and **Expo**
+- 🌱 I’m currently learning **React Native** and **Expo**
 
 - 👨‍💻 All of my projects are available at [[https://nataliajeszke.github.io/portfolio/](https://portfolio-bufgjsn5h-nataliajeszke.vercel.app/)
 
